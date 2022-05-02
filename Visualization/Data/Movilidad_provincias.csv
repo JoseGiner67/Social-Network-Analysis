@@ -1,0 +1,267 @@
+,Provincia de residencia,Provincia de destino,Flujo origen-destino (nº de personas)
+1,Albacete,Alicante/Alacant,398
+2,Albacete,Ciudad Real,620
+3,Albacete,Cuenca,1252
+4,Albacete,Murcia,745
+5,Albacete,Toledo,20
+6,Albacete,Valencia/València,538
+7,Alicante/Alacant,Albacete,225
+9,Alicante/Alacant,Barcelona,16
+10,Alicante/Alacant,Girona,17
+11,Alicante/Alacant,Madrid,178
+12,Alicante/Alacant,Murcia,6682
+13,Alicante/Alacant,Valencia/València,3345
+15,Almería,Granada,1227
+16,Almería,Jaén,27
+17,Almería,Murcia,1638
+19,Araba/Álava,Bizkaia,3941
+20,Araba/Álava,Burgos,1912
+21,Araba/Álava,Gipuzkoa,1172
+22,Araba/Álava,Murcia,103
+23,Araba/Álava,Navarra,138
+24,Araba/Álava,"Rioja, La",992
+26,Asturias,Cantabria,271
+27,Asturias,León,342
+28,Asturias,Lugo,1128
+29,Badajoz,Alicante/Alacant,28
+31,Badajoz,Ciudad Real,218
+32,Badajoz,Cáceres,2241
+33,Badajoz,Córdoba,293
+34,Badajoz,Huelva,539
+35,Badajoz,Sevilla,124
+37,"Balears, Illes",Barcelona,135
+38,"Balears, Illes",Jaén,22
+39,"Balears, Illes",Sevilla,19
+40,"Balears, Illes",Valencia/València,27
+41,Barcelona,Alicante/Alacant,22
+42,Barcelona,"Balears, Illes",65
+44,Barcelona,Cádiz,19
+45,Barcelona,Girona,4951
+46,Barcelona,Lleida,559
+47,Barcelona,Madrid,16
+48,Barcelona,Sevilla,51
+49,Barcelona,Tarragona,3303
+50,Bizkaia,Alicante/Alacant,18
+51,Bizkaia,Araba/Álava,5288
+53,Bizkaia,Burgos,426
+54,Bizkaia,Cantabria,1475
+55,Bizkaia,Gipuzkoa,4546
+56,Bizkaia,"Palmas, Las",18
+57,Bizkaia,"Rioja, La",17
+58,Burgos,Araba/Álava,3568
+59,Burgos,Bizkaia,1372
+61,Burgos,Cantabria,111
+62,Burgos,Palencia,255
+63,Burgos,"Rioja, La",433
+64,Burgos,Segovia,148
+65,Burgos,Soria,180
+66,Burgos,Valladolid,20
+67,Cantabria,Araba/Álava,114
+68,Cantabria,Asturias,546
+69,Cantabria,"Balears, Illes",19
+70,Cantabria,Bizkaia,6315
+71,Cantabria,Burgos,225
+73,Cantabria,Palencia,378
+75,Castellón/Castelló,Madrid,41
+76,Castellón/Castelló,Tarragona,1289
+77,Castellón/Castelló,Teruel,178
+78,Castellón/Castelló,Valencia/València,1429
+79,Castellón/Castelló,Zaragoza,37
+81,Ceuta,Cádiz,49
+82,Ciudad Real,Albacete,706
+83,Ciudad Real,Badajoz,69
+85,Ciudad Real,Cuenca,291
+86,Ciudad Real,Córdoba,162
+87,Ciudad Real,Jaén,137
+88,Ciudad Real,Madrid,65
+89,Ciudad Real,Toledo,774
+91,"Coruña, A",Lugo,1082
+92,"Coruña, A",Pontevedra,4717
+93,Cuenca,Albacete,1019
+94,Cuenca,Ciudad Real,77
+96,Cuenca,Guadalajara,273
+97,Cuenca,Madrid,292
+98,Cuenca,Toledo,304
+99,Cuenca,Valencia/València,229
+100,Cáceres,Araba/Álava,48
+101,Cáceres,Badajoz,1724
+103,Cáceres,Madrid,22
+104,Cáceres,Salamanca,222
+105,Cáceres,Toledo,90
+106,Cáceres,Zaragoza,20
+107,Cáceres,Ávila,297
+109,Cádiz,Huelva,297
+110,Cádiz,Madrid,92
+111,Cádiz,Málaga,1804
+112,Cádiz,Sevilla,2245
+113,Córdoba,Badajoz,183
+114,Córdoba,Ciudad Real,512
+116,Córdoba,Granada,107
+117,Córdoba,Jaén,780
+118,Córdoba,Málaga,577
+119,Córdoba,Sevilla,2779
+120,Gipuzkoa,Araba/Álava,1432
+121,Gipuzkoa,Bizkaia,2462
+123,Gipuzkoa,Navarra,1071
+124,Girona,Alicante/Alacant,95
+125,Girona,Barcelona,9753
+127,Girona,Lleida,166
+128,Girona,Murcia,204
+129,Granada,Almería,523
+130,Granada,Córdoba,153
+132,Granada,Jaén,949
+133,Granada,Murcia,57
+134,Granada,Málaga,288
+135,Granada,Sevilla,21
+136,Guadalajara,Cuenca,90
+138,Guadalajara,Madrid,12292
+139,Guadalajara,Soria,22
+140,Guadalajara,Teruel,28
+141,Huelva,Araba/Álava,35
+142,Huelva,Badajoz,341
+143,Huelva,Cádiz,319
+145,Huelva,Pontevedra,25
+146,Huelva,Sevilla,2166
+148,Huesca,Lleida,1380
+149,Huesca,Navarra,200
+150,Huesca,Zaragoza,655
+151,Jaén,Albacete,251
+152,Jaén,Ciudad Real,65
+153,Jaén,Córdoba,699
+154,Jaén,Granada,751
+156,Jaén,Murcia,107
+157,Jaén,Málaga,19
+158,León,Asturias,200
+160,León,Lugo,196
+161,León,Ourense,490
+162,León,Palencia,28
+163,León,Zamora,318
+164,Lleida,Barcelona,986
+165,Lleida,Girona,300
+166,Lleida,Huesca,1515
+168,Lleida,Navarra,25
+169,Lleida,Tarragona,210
+170,Lugo,Asturias,2162
+171,Lugo,"Coruña, A",829
+172,Lugo,León,47
+174,Lugo,Ourense,513
+175,Lugo,Pontevedra,31
+176,Madrid,Albacete,23
+177,Madrid,Alicante/Alacant,19
+178,Madrid,Cuenca,41
+179,Madrid,Guadalajara,6215
+181,Madrid,Segovia,168
+182,Madrid,Sevilla,53
+183,Madrid,Toledo,7837
+184,Madrid,Ávila,291
+186,Melilla,Málaga,25
+187,Murcia,Albacete,571
+188,Murcia,Alicante/Alacant,3846
+189,Murcia,Almería,2484
+190,Murcia,Araba/Álava,65
+191,Murcia,Girona,83
+192,Murcia,Granada,100
+193,Murcia,Madrid,91
+195,Málaga,Bizkaia,22
+196,Málaga,Ceuta,44
+197,Málaga,Cádiz,2718
+198,Málaga,Córdoba,468
+199,Málaga,Granada,1183
+200,Málaga,Madrid,47
+202,Málaga,Sevilla,226
+203,Navarra,Araba/Álava,830
+204,Navarra,Gipuzkoa,1066
+205,Navarra,Huesca,161
+207,Navarra,"Rioja, La",5411
+208,Navarra,Zaragoza,1602
+209,Ourense,"Coruña, A",79
+210,Ourense,León,309
+211,Ourense,Lugo,1140
+213,Ourense,Pontevedra,1629
+214,Ourense,Zamora,244
+215,Palencia,Bizkaia,24
+216,Palencia,Burgos,520
+217,Palencia,Cantabria,107
+218,Palencia,León,368
+220,Palencia,Valladolid,755
+222,"Palmas, Las",Santa Cruz de Tenerife,206
+223,Pontevedra,"Coruña, A",8083
+224,Pontevedra,Lugo,242
+225,Pontevedra,Ourense,416
+227,"Rioja, La",Alicante/Alacant,25
+228,"Rioja, La",Araba/Álava,3991
+229,"Rioja, La",Bizkaia,91
+230,"Rioja, La",Burgos,235
+231,"Rioja, La",Navarra,3418
+233,"Rioja, La",Soria,26
+234,Salamanca,Cáceres,450
+236,Salamanca,Zamora,205
+237,Salamanca,Ávila,319
+238,Santa Cruz de Tenerife,"Palmas, Las",16
+240,Segovia,Burgos,125
+241,Segovia,Guadalajara,25
+242,Segovia,Madrid,521
+244,Segovia,Valladolid,388
+245,Segovia,Ávila,181
+246,Sevilla,Badajoz,370
+247,Sevilla,Cádiz,2768
+248,Sevilla,Córdoba,2082
+249,Sevilla,Huelva,818
+250,Sevilla,Málaga,800
+252,Soria,Burgos,224
+253,Soria,"Rioja, La",27
+254,Soria,Segovia,71
+256,Soria,Zaragoza,129
+257,Tarragona,Barcelona,5468
+258,Tarragona,Castellón/Castelló,3201
+259,Tarragona,Ciudad Real,26
+260,Tarragona,Lleida,442
+261,Tarragona,Navarra,46
+263,Tarragona,Teruel,437
+264,Tarragona,Zaragoza,228
+265,Teruel,Castellón/Castelló,185
+266,Teruel,Guadalajara,98
+267,Teruel,Tarragona,68
+269,Teruel,Valencia/València,118
+270,Teruel,Zaragoza,805
+271,Toledo,Castellón/Castelló,29
+272,Toledo,Ciudad Real,1708
+273,Toledo,Cuenca,386
+274,Toledo,Cáceres,570
+275,Toledo,Guadalajara,27
+276,Toledo,Jaén,94
+277,Toledo,Madrid,12710
+279,Toledo,Ávila,318
+280,Valencia/València,Albacete,250
+281,Valencia/València,Alicante/Alacant,1797
+282,Valencia/València,Barcelona,17
+283,Valencia/València,Castellón/Castelló,1183
+284,Valencia/València,Cuenca,229
+285,Valencia/València,Cáceres,25
+286,Valencia/València,Teruel,95
+288,Valladolid,Burgos,67
+289,Valladolid,León,404
+290,Valladolid,Palencia,939
+291,Valladolid,Salamanca,45
+292,Valladolid,Segovia,729
+294,Valladolid,Zamora,463
+295,Valladolid,Ávila,190
+296,Zamora,León,417
+297,Zamora,Ourense,36
+298,Zamora,Salamanca,535
+299,Zamora,Valladolid,251
+301,Zaragoza,Barcelona,21
+302,Zaragoza,Guadalajara,18
+303,Zaragoza,Huesca,686
+304,Zaragoza,Lleida,197
+305,Zaragoza,Navarra,1585
+306,Zaragoza,"Rioja, La",200
+307,Zaragoza,Soria,281
+308,Zaragoza,Tarragona,40
+309,Zaragoza,Teruel,371
+311,Ávila,Cáceres,317
+312,Ávila,Madrid,1063
+313,Ávila,Salamanca,267
+314,Ávila,Segovia,301
+315,Ávila,Toledo,210
+316,Ávila,Valladolid,30

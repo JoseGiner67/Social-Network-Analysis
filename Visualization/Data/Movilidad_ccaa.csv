@@ -1,0 +1,89 @@
+,Comunidad Autónoma de residencia,Comunidad Autónoma de destino,Flujo origen-destino (nº de personas)
+1,Andalucía,Castilla - La Mancha,828
+2,Andalucía,Ceuta,44
+3,Andalucía,Extremadura,894
+4,Andalucía,Galicia,25
+5,Andalucía,"Madrid, Comunidad de",139
+6,Andalucía,"Murcia, Región de",1802
+7,Andalucía,País Vasco,57
+9,Aragón,Castilla - La Mancha,116
+10,Aragón,Castilla y León,281
+11,Aragón,Cataluña,1706
+12,Aragón,Comunitat Valenciana,303
+13,Aragón,"Navarra, Comunidad Foral de",1785
+14,Aragón,"Rioja, La",200
+16,"Asturias, Principado de",Cantabria,271
+17,"Asturias, Principado de",Castilla y León,342
+18,"Asturias, Principado de",Galicia,1128
+19,"Balears, Illes",Andalucía,41
+21,"Balears, Illes",Cataluña,135
+22,"Balears, Illes",Comunitat Valenciana,27
+24,Cantabria,"Asturias, Principado de",546
+25,Cantabria,"Balears, Illes",19
+27,Cantabria,Castilla y León,603
+28,Cantabria,País Vasco,6429
+29,Castilla - La Mancha,Andalucía,393
+30,Castilla - La Mancha,Aragón,28
+32,Castilla - La Mancha,Castilla y León,340
+33,Castilla - La Mancha,Comunitat Valenciana,1194
+34,Castilla - La Mancha,Extremadura,639
+35,Castilla - La Mancha,"Madrid, Comunidad de",25359
+36,Castilla - La Mancha,"Murcia, Región de",745
+37,Castilla y León,Aragón,129
+38,Castilla y León,"Asturias, Principado de",200
+39,Castilla y León,Cantabria,218
+40,Castilla y León,Castilla - La Mancha,235
+42,Castilla y León,Extremadura,767
+43,Castilla y León,Galicia,722
+44,Castilla y León,"Madrid, Comunidad de",1584
+45,Castilla y León,País Vasco,4964
+46,Castilla y León,"Rioja, La",460
+47,Cataluña,Andalucía,70
+48,Cataluña,Aragón,2180
+49,Cataluña,"Balears, Illes",65
+50,Cataluña,Castilla - La Mancha,26
+52,Cataluña,Comunitat Valenciana,3318
+53,Cataluña,"Madrid, Comunidad de",16
+54,Cataluña,"Murcia, Región de",204
+55,Cataluña,"Navarra, Comunidad Foral de",71
+56,Ceuta,Andalucía,49
+58,Comunitat Valenciana,Aragón,310
+59,Comunitat Valenciana,Castilla - La Mancha,704
+60,Comunitat Valenciana,Cataluña,1339
+62,Comunitat Valenciana,Extremadura,25
+63,Comunitat Valenciana,"Madrid, Comunidad de",219
+64,Comunitat Valenciana,"Murcia, Región de",6682
+65,Extremadura,Andalucía,956
+66,Extremadura,Aragón,20
+67,Extremadura,Castilla - La Mancha,308
+68,Extremadura,Castilla y León,519
+69,Extremadura,Comunitat Valenciana,28
+71,Extremadura,"Madrid, Comunidad de",22
+72,Extremadura,País Vasco,48
+73,Galicia,"Asturias, Principado de",2162
+74,Galicia,Castilla y León,600
+76,"Madrid, Comunidad de",Andalucía,53
+77,"Madrid, Comunidad de",Castilla - La Mancha,14116
+78,"Madrid, Comunidad de",Castilla y León,459
+79,"Madrid, Comunidad de",Comunitat Valenciana,19
+81,Melilla,Andalucía,25
+83,"Murcia, Región de",Andalucía,2584
+84,"Murcia, Región de",Castilla - La Mancha,571
+85,"Murcia, Región de",Cataluña,83
+86,"Murcia, Región de",Comunitat Valenciana,3846
+87,"Murcia, Región de","Madrid, Comunidad de",91
+89,"Murcia, Región de",País Vasco,65
+90,"Navarra, Comunidad Foral de",Aragón,1763
+92,"Navarra, Comunidad Foral de",País Vasco,1896
+93,"Navarra, Comunidad Foral de","Rioja, La",5411
+94,País Vasco,Canarias,18
+95,País Vasco,Cantabria,1475
+96,País Vasco,Castilla y León,2338
+97,País Vasco,Comunitat Valenciana,18
+98,País Vasco,"Murcia, Región de",103
+99,País Vasco,"Navarra, Comunidad Foral de",1209
+101,País Vasco,"Rioja, La",1009
+102,"Rioja, La",Castilla y León,261
+103,"Rioja, La",Comunitat Valenciana,25
+104,"Rioja, La","Navarra, Comunidad Foral de",3418
+105,"Rioja, La",País Vasco,4082
